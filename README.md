@@ -4,7 +4,7 @@
 > This Linux version is modified from Fonger Music Windows version
 
 ## 🔗 Official Links
-- 🌐 **Official Website**: [http://fonger.top/](http://fonger.top/)
+- 🌐 **Official Website**: [https://fonger.top/](https://fonger.top/)
 - 📺 **Original Creator's Bilibili Account**: [https://space.bilibili.com/190757592](https://space.bilibili.com/190757592)
 - 📱 **Original Creator's Douyin Account**: [https://www.douyin.com/user/MS4wLjABAAAAiGCZmAQpgFsNf4kZqBgQ7ASiUkN8CK5LAkHHonBvpuwMY9wRjQsk0HugmUpClZ3q](https://www.douyin.com/user/MS4wLjABAAAAiGCZmAQpgFsNf4kZqBgQ7ASiUkN8CK5LAkHHonBvpuwMY9wRjQsk0HugmUpClZ3q)
 - 💬 **Original Creator's WeChat Account**:
